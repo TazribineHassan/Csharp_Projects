@@ -5,10 +5,20 @@
 
 ## Project 1 : **Student management using windowsForms and sql server**
 
-## Project 1 : **Student management using windowsForms and sql server**
+    ![Project link]("project link")
 
-## Project 1 : **Student management using windowsForms and sql server**
+## Project 2 : **Website on SharePoint for holiday requests**
 
-## Project 1 : **Student management using windowsForms and sql server**
+    ![Project link]("project link")
 
-## Project 1 : **Student management using windowsForms and sql server**
+## Project 3 : **Student management using WPF**
+
+    ![Project link]("project link")
+
+## Project 4 : **Student absence mobile application using Xamarin**
+
+    ![Project link]("project link")
+
+## Project 5 (optional) : **A UWP application (ToDo App)**
+
+    ![Project link]("project link")
