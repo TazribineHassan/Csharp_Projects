@@ -9,7 +9,7 @@
 
 ## Project 2 : **Website on SharePoint for holiday requests**
 
-[Project link](https://www.google.com)
+[Project link](https://univcadiayyad.sharepoint.com/sites/ENSASEspacedepersonnels)
 
 ## Project 3 : **Student management using WPF**
 
